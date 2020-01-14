@@ -1,0 +1,8 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/oyetydmm/public_html/nodeapp"
+PassengerBaseURI "/nodeapp"
+PassengerNodejs "/home/oyetydmm/nodevenv/public_html/nodeapp/10/bin/node"
+PassengerAppType node
+PassengerStartupFile server.js
+PassengerAppLogFile "/home/oyetydmm/public_html/logs/nodeprac.log"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
